@@ -41,3 +41,5 @@ typings/
 .env
 
 .DS_Store
+
+config/sequelize.js
